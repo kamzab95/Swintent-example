@@ -1,0 +1,264 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "city": "Tokyo",
+      "country": "Japan",
+      "short_description": "Tokyo is the capital city of Japan, known for its bustling metropolis, modern technology, and rich cultural heritage.",
+      "data": {
+        "area_sq_km": 2187,
+        "population_count": 37400068
+      }
+    },
+    {
+      "id": "2",
+      "city": "Osaka",
+      "country": "Japan",
+      "short_description": "Osaka is a major city in Japan, known for its modern architecture, vibrant street life, and delicious street food.",
+      "data": {
+        "area_sq_km": 223.00,
+        "population_count": 19222665
+      }
+    },
+    {
+      "id": "3",
+      "city": "Delhi",
+      "country": "India",
+      "short_description": "Delhi is the capital city of India, combining historical landmarks with a thriving urban center.",
+      "data": {
+        "area_sq_km": 1484,
+        "population_count": 31083836
+      }
+    },
+    {
+      "id": "4",
+      "city": "Mumbai",
+      "country": "India",
+      "short_description": "Mumbai, formerly known as Bombay, is the financial capital of India and a diverse metropolis with a rich cultural heritage.",
+      "data": {
+        "area_sq_km": 603,
+        "population_count": 20411062
+      }
+    },
+    {
+      "id": "5",
+      "city": "Kolkata",
+      "country": "India",
+      "short_description": "Kolkata, also known as Calcutta, is a cultural and educational hub in India, renowned for its colonial architecture and artistic heritage.",
+      "data": {
+        "area_sq_km": 185,
+        "population_count": 14974067
+      }
+    },
+    {
+      "id": "6",
+      "city": "Bangalore",
+      "country": "India",
+      "short_description": "Bangalore, also known as Bengaluru, is a major technology hub in India, characterized by its pleasant climate and cosmopolitan culture.",
+      "data": {
+        "area_sq_km": 709,
+        "population_count": 12691836
+      }
+    },
+    {
+      "id": "7",
+      "city": "Shanghai",
+      "country": "China",
+      "short_description": "Shanghai is a global financial hub and the largest city in China, renowned for its modern architecture and economic significance.",
+      "data": {
+        "area_sq_km": 6341,
+        "population_count": 27380394
+      }
+    },
+    {
+      "id": "8",
+      "city": "Beijing",
+      "country": "China",
+      "short_description": "Beijing is the capital of China and a city with a rich history, known for its cultural landmarks and modern developments.",
+      "data": {
+        "area_sq_km": 16410.54,
+        "population_count": 21542000
+      }
+    },
+    {
+      "id": "9",
+      "city": "Guangzhou",
+      "country": "China",
+      "short_description": "Guangzhou is a major city in China, known for its prosperous economy, modern architecture, and Cantonese cuisine.",
+      "data": {
+        "area_sq_km": 7434.40,
+        "population_count": 14043522
+      }
+    },
+    {
+      "id": "10",
+      "city": "Shenzhen",
+      "country": "China",
+      "short_description": "Shenzhen is a fast-growing city in China, known for its high-tech industries and proximity to Hong Kong.",
+      "data": {
+        "area_sq_km": 1993.85,
+        "population_count": 13026700
+      }
+    },
+    {
+      "id": "11",
+      "city": "Cairo",
+      "country": "Egypt",
+      "short_description": "Cairo is the capital of Egypt and one of the oldest cities in the world, renowned for its historical significance and cultural heritage.",
+      "data": {
+        "area_sq_km": 3085,
+        "population_count": 20077209
+      }
+    },
+    {
+      "id": "12",
+      "city": "Alexandria",
+      "country": "Egypt",
+      "short_description": "Alexandria is a coastal city in Egypt, known for its ancient history, beautiful beaches, and vibrant atmosphere.",
+      "data": {
+        "area_sq_km": 230,
+        "population_count": 5254990
+      }
+    },
+    {
+      "id": "13",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "short_description": "Karachi is the largest city in Pakistan, serving as a major economic and cultural center.",
+      "data": {
+        "area_sq_km": 3527,
+        "population_count": 23500000
+      }
+    },
+    {
+      "id": "14",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "short_description": "Lahore is a historical city in Pakistan, known for its cultural heritage and economic significance.",
+      "data": {
+        "area_sq_km": 1772,
+        "population_count": 8941742
+      }
+    },
+    {
+      "id": "15",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "short_description": "Istanbul is a transcontinental city straddling Europe and Asia, known for its rich history and diverse cultural heritage.",
+      "data": {
+        "area_sq_km": 5343,
+        "population_count": 15029231
+      }
+    },
+    {
+      "id": "16",
+      "city": "Ankara",
+      "country": "Turkey",
+      "short_description": "Ankara is the capital of Turkey, known for its modern architecture, historical landmarks, and governmental institutions.",
+      "data": {
+        "area_sq_km": 2490,
+        "population_count": 5904120
+      }
+    },
+    {
+      "id": "17",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "short_description": "Dhaka is the capital and largest city of Bangladesh, an important economic and cultural hub.",
+      "data": {
+        "area_sq_km": 306.4,
+        "population_count": 21230341
+      }
+    },
+    {
+      "id": "18",
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "short_description": "Chittagong is a major port city in Bangladesh, known for its scenic beauty and economic significance.",
+      "data": {
+        "area_sq_km": 168,
+        "population_count": 3920222
+      }
+    },
+    {
+      "id": "21",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "short_description": "Bangkok is the capital and largest city of Thailand, known for its vibrant street life and cultural landmarks.",
+      "data": {
+        "area_sq_km": 1569,
+        "population_count": 10983000
+      }
+    },
+    {
+      "id": "22",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "short_description": "Chiang Mai is a cultural and historical city in Thailand, surrounded by mountains and known for its temples.",
+      "data": {
+        "area_sq_km": 40.2,
+        "population_count": 1310918
+      }
+    },
+    {
+      "id": "23",
+      "city": "London",
+      "country": "United Kingdom",
+      "short_description": "London is the capital of the United Kingdom, a global city known for its cultural diversity and historical landmarks.",
+      "data": {
+        "area_sq_km": 1572,
+        "population_count": 8982000
+      }
+    },
+    {
+      "id": "24",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "short_description": "Manchester is a major city in the UK, known for its industrial heritage, vibrant music scene, and sports culture.",
+      "data": {
+        "area_sq_km": 115.6,
+        "population_count": 547627
+      }
+    },
+    {
+      "id": "25",
+      "city": "Lima",
+      "country": "Peru",
+      "short_description": "Lima is the capital and largest city of Peru, known for its rich history and culinary scene.",
+      "data": {
+        "area_sq_km": 2672,
+        "population_count": 9123738
+      }
+    },
+    {
+      "id": "26",
+      "city": "Arequipa",
+      "country": "Peru",
+      "short_description": "Arequipa is a picturesque city in Peru, surrounded by volcanoes and known for its colonial architecture.",
+      "data": {
+        "area_sq_km": 3838.3,
+        "population_count": 1005167
+      }
+    },
+    {
+      "id": "27",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "short_description": "Ho Chi Minh City, formerly known as Saigon, is the largest city in Vietnam, known for its historic landmarks and lively atmosphere.",
+      "data": {
+        "area_sq_km": 2095,
+        "population_count": 9200000
+      }
+    },
+    {
+      "id": "28",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "short_description": "Hanoi is the capital of Vietnam and known for its centuries-old architecture, vibrant street markets, and rich history.",
+      "data": {
+        "area_sq_km": 3323.6,
+        "population_count": 7953662
+      }
+    }
+  ]
+}

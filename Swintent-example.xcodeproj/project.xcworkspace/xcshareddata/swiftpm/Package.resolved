@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swintent",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kamzab95/Swintent.git",
+      "state" : {
+        "revision" : "63108879214f3766b9f197b84d8e88dd582910db",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
